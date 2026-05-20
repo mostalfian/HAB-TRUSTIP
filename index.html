@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Jastip China Indo - Kirim dari China ke Indonesia</title>
+  
+  <!-- Meta Tags untuk SEO -->
+  <meta name="description" content="Jastip China ke Indonesia terpercaya. Belanja dari Taobao, 1688, Tmall. Door to door, aman dan cepat.">
+  <meta name="keywords" content="jastip china, jastip indo, titip barang china, belanja taobao, 1688 indonesia">
+  <meta name="author" content="Jastip China Indo">
+  <meta name="robots" content="index, follow">
+  
+  <!-- Google Fonts & Font Awesome -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  
+  <!-- CSS External -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Floating WhatsApp Button -->
+<a href="https://wa.me/62895385275533?text=Halo%20Jastip%20China%20Indo,%20saya%20butuh%20bantuan%20titip%20barang" 
+   class="wa-float" target="_blank">
+  <i class="fab fa-whatsapp"></i> Chat Jastip
+</a>
+
+<header>
+  <div class="container">
+    <div class="navbar">
+      <div class="logo">
+        <i class="fas fa-plane-departure"></i>
+        <span>Jastip</span><span style="color:#2c3e4e;">ChinaIndo</span>
+      </div>
+      <ul class="nav-links">
+        <li><a href="#home">Beranda</a></li>
+        <li><a href="#produk">Produk</a></li>
+        <li><a href="#layanan">Layanan</a></li>
+        <li><a href="#ketentuan">Ketentuan</a></li>
+        <li><a href="#caraorder">Cara Order</a></li>
+        <li><a href="#kontak" class="btn-contact-nav">Kontak</a></li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<main>
+  <!-- Hero Section -->
+  <section id="home">
+    <div class="container hero">
+      <div class="hero-text">
+        <h1>Titip Barang dari <span>China</span> ke Indonesia <br> Tanpa Repot</h1>
+        <p>Jastip terpercaya, aman, cepat, dan harga bersahabat. Dari Taobao, 1688, JD, Poizon, Pinduoduo hingga langsung ke rumah Anda di Indo.</p>
+        <div>
+          <button class="btn-primary" onclick="document.getElementById('produk').scrollIntoView({behavior:'smooth'})">
+            <i class="fas fa-shopping-bag"></i> Lihat Produk Populer
+          </button>
+          <button class="btn-outline" style="margin-left: 15px;" onclick="window.location.href='#layanan'">
+            Lihat Layanan
+          </button>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="https://placehold.co/600x400/fef2e8/e65c2f?text=China+to+Indo+Jastip" alt="jastip china indo illustration">
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION PRODUK -->
+  <section id="produk" style="background: #fefaf7;">
+    <div class="container">
+      <h2 class="section-title">🛍️ Produk Populer dari China</h2>
+      <p style="text-align: center; margin-bottom: 30px; color: #5a6e7e;">Barang-barang yang paling sering di-jastip oleh pelanggan kami</p>
+      
+      <!-- Filter Kategori -->
+      <div class="category-filter">
+        <button class="filter-btn active" data-category="all">Semua</button>
+        <button class="filter-btn" data-category="fashion">Fashion</button>
+        <button class="filter-btn" data-category="elektronik">Elektronik</button>
+        <button class="filter-btn" data-category="rumah">Rumah Tangga</button>
+        <button class="filter-btn" data-category="aksesoris">Aksesoris</button>
+      </div>
+
+      <!-- Grid Produk -->
+      <div class="products-grid" id="productsGrid"></div>
+      
+      <div style="text-align: center; margin-top: 20px;">
+        <button class="btn-outline" onclick="document.getElementById('kontak').scrollIntoView({behavior:'smooth'})">
+          <i class="fab fa-whatsapp"></i> Pesan Barang Lainnya
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Layanan Jastip -->
+  <section id="layanan">
+    <div class="container">
+      <h2 class="section-title">Layanan Unggulan Jastip China Indo</h2>
+      <div class="services-grid">
+        <div class="service-card">
+          <i class="fas fa-door-open"></i>
+          <h3>Door to Door</h3>
+          <p>Kami kirim sampai depan rumah Anda. Proses bea cukai dan pengiriman diurus, Anda tinggal terima paket.</p>
+        </div>
+        <div class="service-card">
+          <i class="fas fa-plane"></i>
+          <h3>Pengiriman Udara (Air Freight)</h3>
+          <p>Opsi ekspres via udara. Sampai di Indonesia dalam 3-7 hari kerja.</p>
+        </div>
+        <div class="service-card">
+          <i class="fas fa-shopping-cart"></i>
+          <h3>Belanja Online China</h3>
+          <p>Taobao, 1688, JD, Poizon, Pinduoduo – kami pesankan untukmu. Free negosiasi harga dengan seller.</p>
+        </div>
+        <div class="service-card">
+          <i class="fas fa-boxes"></i>
+          <h3>Penggabungan Paket</h3>
+          <p>Gabung beberapa pesanan jadi satu kiriman, hemat ongkos kirim hingga 40%.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- KETENTUAN BARANG -->
+  <section id="ketentuan" style="background: #fefaf7;">
+    <div class="container">
+      <h2 class="section-title">📋 Ketentuan Jastip & Barang</h2>
+      <div class="rules-grid">
+        <div class="rule-card">
+          <i class="fas fa-pills"></i>
+          <h4>Obat-obatan</h4>
+          <p class="warning">❌ Tidak melayani semua jenis obat-obatan</p>
+        </div>
+        <div class="rule-card">
+          <i class="fas fa-utensils"></i>
+          <h4>Makanan & Snack</h4>
+          <p>✅ Makanan kemasan pabrik <strong>maksimal 5kg/kiriman</strong></p>
+        </div>
+        <div class="rule-card">
+          <i class="fas fa-battery-full"></i>
+          <h4>Baterai & Elektronik</h4>
+          <p>Powerbank, baterai lepas <strong>tidak dilayani</strong>. Elektronik dengan baterai internal wajib konfirmasi.</p>
+        </div>
+        <div class="rule-card">
+          <i class="fas fa-gavel"></i>
+          <h4>Barang Terlarang Lainnya</h4>
+          <p>Miras, narkoba, senjata, uang, barang ilegal dilarang keras.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cara Order -->
+  <section id="caraorder">
+    <div class="container">
+      <h2 class="section-title">📦 Cara Mudah Order Jastip</h2>
+      <div class="steps">
+        <div class="step-item"><div class="step-number">1</div><h3>Kirim Link Barang</h3><p>Share link produk dari Taobao/1688 ke WhatsApp kami.</p></div>
+        <div class="step-item"><div class="step-number">2</div><h3>Konfirmasi & Bayar</h3><p>Kami hitung total harga + fee jastip. DP 50% via transfer/QRIS.</p></div>
+        <div class="step-item"><div class="step-number">3</div><h3>Kami Pesan & Terima</h3><p>Tim kami di China memesan, mengecek kualitas & menyimpan di gudang.</p></div>
+        <div class="step-item"><div class="step-number">4</div><h3>Kirim & Sampai Rumah</h3><p>Setelah lunas sisa + ongkir, paket dikirim ke alamatmu di Indonesia.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimoni Pelanggan -->
+  <section id="testimoni" style="background: #fefaf5;">
+    <div class="container">
+      <h2 class="section-title">💬 Apa Kata Mereka</h2>
+      <div class="testimoni-grid">
+        <div class="testi-card">
+          <i class="fas fa-quote-left"></i>
+          <p style="margin: 12px 0;">"Proses cepat, barang original dari 1688. Door to door beneran sampe rumah. Recommended!"</p>
+          <h4>— Amanda, Jakarta</h4>
+          <div><i class="fas fa-star" style="color:#FFB800;"></i> 5.0</div>
+        </div
+        <div class="testi-card">
+          <i class="fas fa-quote-left"></i>
+          <p style="margin: 12px 0;">"Jastip China Indo sangat membantu untuk belanja aksesoris hp. Fee transparan, tidak ada biaya tersembunyi."</p>
+          <h4>— Rizki, Surabaya</h4>
+          <div><i class="fas fa-star" style="color:#FFB800;"></i> 4.9</div>
+        </div>
+        <div class="testi-card">
+          <i class="fas fa-quote-left"></i>
+          <p style="margin: 12px 0;">"Barang tiba dengan aman, packing rapi, dan respon admin cepat banget. Pasti pakai lagi!"</p>
+          <h4>— Dewi, Bandung</h4>
+          <div><i class="fas fa-star" style="color:#FFB800;"></i> 5.0</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Form Kontak -->
+  <section id="kontak">
+    <div class="container">
+      <h2 class="section-title">📞 Request Jastip Sekarang</h2>
+      <div class="form-section">
+        <form id="jastipForm" action="#">
+          <div class="form-row">
+            <div class="form-group"><label>Nama Lengkap</label><input type="text" id="nama" placeholder="Contoh: Budi Santoso" required></div>
+            <div class="form-group"><label>WhatsApp / Telepon</label><input type="tel" id="telp" placeholder="081234567890" required></div>
+          </div>
+          <div class="form-group"><label>Link Produk (Taobao/1688/dll)</label><input type="url" id="linkProduk" placeholder="Tempel link barang yang ingin dipesan..."></div>
+          <div class="form-group"><label>Keterangan tambahan (warna, ukuran, quantity)</label><textarea rows="3" id="detail" placeholder="Contoh: Warna merah, ukuran L, qty 2"></textarea></div>
+          
+          <button type="submit" class="btn-primary" style="width:100%; justify-content:center;">
+            <i class="fab fa-whatsapp"></i> Kirim Permintaan via WhatsApp
+          </button>
+          <p style="font-size: 0.85rem; margin-top: 16px; text-align:center; color:#6f6e64;">*Kami akan membalas dalam < jam 10.00 - 22.00 WIB di WhatsApp Anda</p>
+        </form>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- Modal Detail Produk -->
+<div id="productModal" class="modal">
+  <div class="modal-content">
+    <span class="modal-close" onclick="closeModal()">&times;</span>
+    <img id="modalImage" class="modal-product-image" src="" alt="">
+    <h3 id="modalTitle"></h3>
+    <p style="color: #e65c2f; font-size: 1.5rem; font-weight: 800; margin: 10px 0;" id="modalPrice"></p>
+    <p id="modalOrigin"><i class="fas fa-map-marker-alt"></i> <span id="modalOriginText"></span></p>
+    <p id="modalDesc" style="margin: 15px 0; line-height: 1.6;"></p>
+    <button class="btn-primary" style="width:100%;" onclick="orderProduct()">
+      <i class="fab fa-whatsapp"></i> Pesan via WhatsApp
+    </button>
+  </div>
+</div>
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">✈️ JastipChinaIndo</div>
+        <p style="margin-top: 12px; max-width: 280px;">Layanan jastip resmi China ke seluruh Indonesia. Door to door, aman, dan terpercaya.</p>
+      </div>
+      <div>
+        <h4>Kontak</h4>
+        <p><i class="fab fa-whatsapp"></i> +62 895-3852-75533</p>
+        <p><i class="far fa-envelope"></i> hafiddfmb@gmail.com</p>
+        <p><i class="fas fa-map-marker-alt"></i> Gudang: Guangzhou, China & Jakarta, Indonesia</p>
+      </div>
+      <div>
+        <h4>Ikuti Kami</h4>
+        <div class="social-icons">
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-tiktok"></i></a>
+          <a href="#"><i class="fab fa-facebook"></i></a>
+        </div>
+        <p style="margin-top: 18px;">© 2025 Jastip China Indo</p>
+      </div>
+    </div>
+    <div class="copyright">
+      <p>Melayani pembelian dari Taobao, 1688, JD, Poizon, Pinduoduo. Patuhi ketentuan barang yang berlaku.</p>
+    </div>
+  </div>
+</footer>
+
+<!-- JavaScript External -->
+<script src="script.js"></script>
+</body>
+</html>
