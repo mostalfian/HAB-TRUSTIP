@@ -32,13 +32,13 @@ const products = [
   },
   {
     id: 4,
-    name: "iPhone 15 Case MagSafe",
-    category: "aksesoris",
-    price: "Rp 85.000",
-    priceCny: "¥39",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=iPhone+Case",
-    origin: "Shenzhen Accessories Market",
-    description: "Case HP dengan magnet kuat, bahan TPU transparan anti-kuning. Support MagSafe charger."
+    name: "Jaket Denim, Gaya Baru Musim Gugur",
+    category: "fashion",
+    price: "Rp 159.000",
+    priceCny: "¥53",
+    image: "https://i.imgur.com/jE7eaHs.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
   },
   {
     id: 5,
