@@ -657,21 +657,54 @@ footer {
 }
 
 /* Animasi pesawat terbang */
-@keyframes flyPlane {
+@keyframes rotateAroundLogo {
   0% {
-    transform: translateX(-100px) translateY(0) rotate(0deg);
-    opacity: 0;
-  }
-  10% {
-    opacity: 1;
-  }
-  90% {
+    transform: translate(-50%, -50%) rotate(0deg) translateX(80px) rotate(0deg);
     opacity: 1;
   }
   100% {
-    transform: translateX(calc(100vw + 100px)) translateY(-30px) rotate(5deg);
-    opacity: 0;
+    transform: translate(-50%, -50%) rotate(360deg) translateX(80px) rotate(-360deg);
+    opacity: 1;
   }
+}
+
+/* Container untuk logo dan pesawat */
+.logo-container {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Pesawat yang berputar di sekitar logo */
+.logo-container::after {
+  content: '✈️';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 24px;
+  animation: rotateAroundLogo 6s linear infinite;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.9;
+  filter: drop-shadow(0 0 3px rgba(230, 92, 47, 0.5));
+}
+
+/* Efek hover - pesawat berhenti sebentar */
+.logo-container:hover::after {
+  animation-play-state: paused;
+}
+
+/* Tambahan: efek gemerlap pada logo saat ada pesawat */
+.logo {
+  position: relative;
+  z-index: 2;
+  background: transparent;
+  transition: all 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.02);
 }
 
 /* Animasi background gradien bergerak */
