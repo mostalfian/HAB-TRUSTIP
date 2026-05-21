@@ -103,7 +103,7 @@ const products = [
   {
     id: 11,
     name: "Kaos lengan pendek motif salib",
-    category: "fashion",
+    category: "rumah",
     price: "Rp 89.400",
     priceCny: "¥29.8",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
