@@ -3,7 +3,7 @@ const products = [
   {
     id: 1,
     name: "Kaos lengan panjang motif salib ",
-    category: "fashion",
+    category: "elektronik",
     price: "Rp 119.400",
     priceCny: "¥39.8",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
@@ -13,7 +13,7 @@ const products = [
   {
     id: 2,
     name: "Tas Ransel Korean Version",
-    category: "fashion",
+    category: "rumah",
     price: "Rp 67.800",
     priceCny: "¥22.6",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
@@ -23,7 +23,7 @@ const products = [
   {
     id: 3,
     name: "Kaos lengan pendek motif salib",
-    category: "fashion",
+    category: "aksesoris",
     price: "Rp 89.400",
     priceCny: "¥29.8",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
