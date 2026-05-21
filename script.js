@@ -66,7 +66,7 @@ const products = [
     category: "fashion",
     price: "Rp 90.000",
     priceCny: "¥30",
-    image: "https://i.imgur.com/yoZ3O5t.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Celana Panjang Retro Baru Musim Semi/Gugur 2025 untuk Anak Laki-laki Ukuran Sedang dan Besar, Celana Panjang dengan Motif, Bergaya."
   },
@@ -76,7 +76,7 @@ const products = [
     category: "fashion",
     price: "Rp 60000",
     priceCny: "¥20",
-    image: "https://i.imgur.com/pYYqRuo.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi Gaya Instagram Anti Selip dan Tahan Bau Sandal Tertutup untuk Pasangan."
   }
