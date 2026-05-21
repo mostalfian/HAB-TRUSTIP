@@ -12,13 +12,13 @@ const products = [
   },
   {
     id: 2,
-    name: "Hoodie Fashion Korea",
+    name: "Tas Ransel Korean Version",
     category: "fashion",
-    price: "Rp 175.000",
-    priceCny: "¥79",
+    price: "Rp 67.800",
+    priceCny: "¥22.6",
     image: "https://i.imgur.com/gFdTxpl.jpeg",
-    origin: "Guangzhou Fashion Market",
-    description: "Hoodie oversized bahan cotton fleece, nyaman dipakai. Tersedia berbagai warna (Black, Grey, Navy, Pink). Ukuran S-XXL."
+    origin: "Pinduoduo Market Place",
+    description: "Ransel Modis Terbaru 2026 untuk Wanita, Gaya Korea, Serbaguna untuk Siswa SMP dan SMA, untuk Perjalanan, Ransel Kapasitas Besar."
   },
   {
     id: 3,
