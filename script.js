@@ -16,7 +16,7 @@ const products = [
     category: "fashion",
     price: "Rp 175.000",
     priceCny: "¥79",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=Hoodie+Fashion",
+    image: "https://i.imgur.com/gFdTxpl.jpeg",
     origin: "Guangzhou Fashion Market",
     description: "Hoodie oversized bahan cotton fleece, nyaman dipakai. Tersedia berbagai warna (Black, Grey, Navy, Pink). Ukuran S-XXL."
   },
