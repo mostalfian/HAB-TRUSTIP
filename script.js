@@ -2,13 +2,13 @@
 const products = [
   {
     id: 1,
-    name: "Smartwatch Xiaomi Mi Band 8",
-    category: "elektronik",
-    price: "Rp 450.000",
-    priceCny: "¥199",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=Xiaomi+Band+8",
-    origin: "Xiaomi Official Store, China",
-    description: "Fitness tracker dengan layar AMOLED, tahan air, baterai tahan 14 hari. Garansi resmi 1 tahun."
+    name: "Kaos lengan panjang motif salib ",
+    category: "fashion",
+    price: "Rp 119.400",
+    priceCny: "¥39.8",
+    image: "https://i.imgur.com/W0nkvkc.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Kaos lengan panjang motif salib Sansekerta bergaya retro-chic dari merek trendi Amerika untuk pria dan wanita dengan pola unik."
   },
   {
     id: 2,
