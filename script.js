@@ -119,46 +119,6 @@ const products = [
     image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
-  },
-  {
-    id: 13,
-    name: "Tas Ransel Korean Version",
-    category: "rumah",
-    price: "Rp 67.800",
-    priceCny: "¥22.6",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Ransel Modis Terbaru 2026 untuk Wanita, Gaya Korea, Serbaguna untuk Siswa SMP dan SMA, untuk Perjalanan, Ransel Kapasitas Besar."
-  },
-  {
-    id: 14,
-    name: "Kaos lengan pendek motif salib",
-    category: "aksesoris",
-    price: "Rp 89.400",
-    priceCny: "¥29.8",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
-  },
-  {
-    id: 15,
-    name: "Jaket Denim, Gaya Baru Musim Gugur",
-    category: "aksesoris",
-    price: "Rp 159.000",
-    priceCny: "¥53",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
-  },
-  {
-    id: 16,
-    name: "Jaket Denim, Gaya Baru Musim Gugur",
-    category: "aksesoris",
-    price: "Rp 159.000",
-    priceCny: "¥53",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
   }
 ];
 
