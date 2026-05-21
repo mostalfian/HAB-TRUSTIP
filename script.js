@@ -6,7 +6,7 @@ const products = [
     category: "fashion",
     price: "Rp 119.400",
     priceCny: "¥39.8",
-    image: "https://i.imgur.com/W0nkvkc.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Kaos lengan panjang motif salib Sansekerta bergaya retro-chic dari merek trendi Amerika untuk pria dan wanita dengan pola unik."
   },
@@ -16,7 +16,7 @@ const products = [
     category: "fashion",
     price: "Rp 67.800",
     priceCny: "¥22.6",
-    image: "https://i.imgur.com/gFdTxpl.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Ransel Modis Terbaru 2026 untuk Wanita, Gaya Korea, Serbaguna untuk Siswa SMP dan SMA, untuk Perjalanan, Ransel Kapasitas Besar."
   },
@@ -26,7 +26,7 @@ const products = [
     category: "fashion",
     price: "Rp 89.400",
     priceCny: "¥29.8",
-    image: "https://i.imgur.com/YRhbBl7.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
   },
@@ -36,7 +36,7 @@ const products = [
     category: "fashion",
     price: "Rp 159.000",
     priceCny: "¥53",
-    image: "https://i.imgur.com/jE7eaHs.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
   },
@@ -46,7 +46,7 @@ const products = [
     category: "fashion",
     price: "Rp 177.000",
     priceCny: "¥59",
-    image: "https://i.imgur.com/UUH6uc5.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "MFNR, merek streetwear Amerika, menghadirkan kaos lengan panjang bercetak untuk pria dan wanita, atasan kerah bulat tebal bergaya high-street untuk musim gugur."
   },
@@ -56,7 +56,7 @@ const products = [
     category: "fashion",
     price: "Rp 105.000",
     priceCny: "¥35",
-    image: "https://i.imgur.com/9qNY3gW.jpeg",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Celana jeans model lurus dan melebar yang trendi, gaya kelas atas, potongan longgar, melangsingkan, celana jeans grafiti retro Amerika yang trendi, ukuran 12."
   },
