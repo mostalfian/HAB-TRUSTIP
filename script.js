@@ -22,13 +22,13 @@ const products = [
   },
   {
     id: 3,
-    name: "Robot Vacuum Cleaner",
-    category: "rumah",
-    price: "Rp 1.250.000",
-    priceCny: "¥549",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=Robot+Vacuum",
-    origin: "Xiaomi Youpin, China",
-    description: "Robot vacuum dengan navigasi laser, daya hisap 2700Pa, kontrol via app. Bisa mapping rumah."
+    name: "Kaos lengan pendek motif salib",
+    category: "fashion",
+    price: "Rp 89.400",
+    priceCny: "¥29.8",
+    image: "https://i.imgur.com/YRhbBl7.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
   },
   {
     id: 4,
