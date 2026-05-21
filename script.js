@@ -103,7 +103,7 @@ const products = [
   {
     id: 11,
     name: "Kaos lengan pendek motif salib",
-    category: "aksesoris",
+    category: "fashion",
     price: "Rp 89.400",
     priceCny: "¥29.8",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
@@ -134,6 +134,26 @@ const products = [
     id: 14,
     name: "Jaket Denim, Gaya Baru Musim Gugur",
     category: "aksesoris",
+    price: "Rp 159.000",
+    priceCny: "¥53",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
+  },
+  {
+    id: 15,
+    name: "Kaos lengan pendek motif salib",
+    category: "elektronik",
+    price: "Rp 89.400",
+    priceCny: "¥29.8",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
+  },
+  {
+    id: 16,
+    name: "Jaket Denim, Gaya Baru Musim Gugur",
+    category: "fashion",
     price: "Rp 159.000",
     priceCny: "¥53",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
