@@ -63,7 +63,7 @@ const products = [
   {
     id: 7,
     name: "Celana Panjang Retro Baru Musim Semi/Gugur",
-    category: "fashion",
+    category: "elektronik",
     price: "Rp 90.000",
     priceCny: "¥30",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
@@ -73,12 +73,52 @@ const products = [
   {
     id: 8,
     name: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi",
-    category: "fashion",
+    category: "elektronik",
     price: "Rp 60000",
     priceCny: "¥20",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi Gaya Instagram Anti Selip dan Tahan Bau Sandal Tertutup untuk Pasangan."
+  },
+  {
+    id: 9,
+    name: "Kaos lengan panjang motif salib ",
+    category: "rumah",
+    price: "Rp 119.400",
+    priceCny: "¥39.8",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Kaos lengan panjang motif salib Sansekerta bergaya retro-chic dari merek trendi Amerika untuk pria dan wanita dengan pola unik."
+  },
+  {
+    id: 10,
+    name: "Tas Ransel Korean Version",
+    category: "rumah",
+    price: "Rp 67.800",
+    priceCny: "¥22.6",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Ransel Modis Terbaru 2026 untuk Wanita, Gaya Korea, Serbaguna untuk Siswa SMP dan SMA, untuk Perjalanan, Ransel Kapasitas Besar."
+  },
+  {
+    id: 11,
+    name: "Kaos lengan pendek motif salib",
+    category: "aksesoris",
+    price: "Rp 89.400",
+    priceCny: "¥29.8",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
+  },
+  {
+    id: 12,
+    name: "Jaket Denim, Gaya Baru Musim Gugur",
+    category: "aksesoris",
+    price: "Rp 159.000",
+    priceCny: "¥53",
+    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
   }
 ];
 
