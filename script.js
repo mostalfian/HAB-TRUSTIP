@@ -79,16 +79,6 @@ const products = [
     image: "https://i.imgur.com/pYYqRuo.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi Gaya Instagram Anti Selip dan Tahan Bau Sandal Tertutup untuk Pasangan."
-  },
-  {
-    id: 9,
-    name: "ihjuygyugiuh",
-    category: "aksesoris",
-    price: "Rp 195.000",
-    priceCny: "¥89",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=Jam+Tangan",
-    origin: "Guangzhou Watch Market",
-    description: "Jam tangan analog dengan strap stainless steel, tahan air 30m. Desain elegan."
   }
 ];
 
