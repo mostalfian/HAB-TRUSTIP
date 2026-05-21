@@ -42,43 +42,43 @@ const products = [
   },
   {
     id: 5,
-    name: "Sepatu Sneakers Pria/Wanita",
+    name: "MFNR, merek streetwear Amerika",
     category: "fashion",
-    price: "Rp 325.000",
-    priceCny: "¥149",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=Sneakers",
-    origin: "Putian, China (Kota Sepatu)",
-    description: "Sneakers casual berbahan kulit sintetis, sol empuk. Tersedia ukuran 36-44. Desain minimalis."
+    price: "Rp 177.000",
+    priceCny: "¥59",
+    image: "https://i.imgur.com/UUH6uc5.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "MFNR, merek streetwear Amerika, menghadirkan kaos lengan panjang bercetak untuk pria dan wanita, atasan kerah bulat tebal bergaya high-street untuk musim gugur."
   },
   {
     id: 6,
-    name: "TWS Earbuds ANC",
-    category: "elektronik",
-    price: "Rp 275.000",
-    priceCny: "¥129",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=TWS+Earbuds",
-    origin: "Huqin Electronics, China",
-    description: "True wireless stereo dengan active noise cancellation, baterai tahan 6 jam + case 24 jam."
+    name: "Celana jeans model lurus dan melebar yang trendi",
+    category: "fashion",
+    price: "Rp 105.000",
+    priceCny: "¥35",
+    image: "https://i.imgur.com/9qNY3gW.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Celana jeans model lurus dan melebar yang trendi, gaya kelas atas, potongan longgar, melangsingkan, celana jeans grafiti retro Amerika yang trendi, ukuran 12."
   },
   {
     id: 7,
-    name: "Lampu LED Strip RGB",
-    category: "rumah",
-    price: "Rp 95.000",
-    priceCny: "¥45",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=LED+Strip",
-    origin: "Guangzhou Lighting Market",
-    description: "LED strip 5 meter dengan remote control, 16 warna, bisa sync dengan musik."
+    name: "Celana Panjang Retro Baru Musim Semi/Gugur",
+    category: "fashion",
+    price: "Rp 90.000",
+    priceCny: "¥30",
+    image: "https://i.imgur.com/yoZ3O5t.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Celana Panjang Retro Baru Musim Semi/Gugur 2025 untuk Anak Laki-laki Ukuran Sedang dan Besar, Celana Panjang dengan Motif, Bergaya."
   },
   {
     id: 8,
-    name: "Jam Tangan Pria Sport",
-    category: "aksesoris",
-    price: "Rp 195.000",
-    priceCny: "¥89",
-    image: "https://placehold.co/400x400/fce4d8/e65c2f?text=Jam+Tangan",
-    origin: "Guangzhou Watch Market",
-    description: "Jam tangan analog dengan strap stainless steel, tahan air 30m. Desain elegan."
+    name: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi",
+    category: "fashion",
+    price: "Rp 60000",
+    priceCny: "¥20",
+    image: "https://i.imgur.com/pYYqRuo.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi Gaya Instagram Anti Selip dan Tahan Bau Sandal Tertutup untuk Pasangan."
   },
   {
     id: 9,
