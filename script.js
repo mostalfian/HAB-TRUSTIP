@@ -4,8 +4,8 @@ const products = [
     id: 1,
     name: "",
     category: "makanan",
-    price: "Rp 119.400",
-    priceCny: "¥39.8",
+    price: "Rp ",
+    priceCny: "¥",
     image: "https://i.imgur.com/EbQEWSz.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
@@ -14,151 +14,91 @@ const products = [
     id: 2,
     name: "",
     category: "makanan",
-    price: "Rp 67.800",
-    priceCny: "¥22.6",
+    price: "Rp ",
+    priceCny: "¥",
     image: "https://i.imgur.com/hZNIxiF.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
   },
   {
     id: 3,
-    name: "Kaos lengan pendek motif salib",
-    category: "aksesoris",
-    price: "Rp 89.400",
-    priceCny: "¥29.8",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/0bDYuIA.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
+    description: ""
   },
   {
     id: 4,
-    name: "Jaket Denim, Gaya Baru Musim Gugur",
-    category: "fashion",
-    price: "Rp 159.000",
-    priceCny: "¥53",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/CCtdpvF.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
+    description: ""
   },
   {
     id: 5,
-    name: "MFNR, merek streetwear Amerika",
-    category: "fashion",
-    price: "Rp 177.000",
-    priceCny: "¥59",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/5wfc4nO.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "MFNR, merek streetwear Amerika, menghadirkan kaos lengan panjang bercetak untuk pria dan wanita, atasan kerah bulat tebal bergaya high-street untuk musim gugur."
+    description: ""
   },
   {
     id: 6,
-    name: "Celana jeans model lurus dan melebar yang trendi",
-    category: "fashion",
-    price: "Rp 105.000",
-    priceCny: "¥35",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/kvyI2zP.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Celana jeans model lurus dan melebar yang trendi, gaya kelas atas, potongan longgar, melangsingkan, celana jeans grafiti retro Amerika yang trendi, ukuran 12."
+    description: ""
   },
   {
     id: 7,
-    name: "Celana Panjang Retro Baru Musim Semi/Gugur",
-    category: "elektronik",
-    price: "Rp 90.000",
-    priceCny: "¥30",
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Celana Panjang Retro Baru Musim Semi/Gugur 2025 untuk Anak Laki-laki Ukuran Sedang dan Besar, Celana Panjang dengan Motif, Bergaya."
+    description: ""
   },
   {
     id: 8,
-    name: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi",
+    name: "",
     category: "elektronik",
-    price: "Rp 60000",
-    priceCny: "¥20",
+    price: "Rp ",
+    priceCny: "¥",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Sandal Stitch Clogs Pria Bergaya Anti Selip Trendi Gaya Instagram Anti Selip dan Tahan Bau Sandal Tertutup untuk Pasangan."
+    description: ""
   },
   {
     id: 9,
-    name: "Kaos lengan panjang motif salib ",
+    name: "",
     category: "rumah",
-    price: "Rp 119.400",
-    priceCny: "¥39.8",
+    price: "Rp ",
+    priceCny: "¥",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Kaos lengan panjang motif salib Sansekerta bergaya retro-chic dari merek trendi Amerika untuk pria dan wanita dengan pola unik."
+    description: ""
   },
   {
     id: 10,
-    name: "Tas Ransel Korean Version",
+    name: "",
     category: "rumah",
-    price: "Rp 67.800",
-    priceCny: "¥22.6",
+    price: "Rp ",
+    priceCny: "¥",
     image: "https://i.imgur.com/do9Q8JR.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Ransel Modis Terbaru 2026 untuk Wanita, Gaya Korea, Serbaguna untuk Siswa SMP dan SMA, untuk Perjalanan, Ransel Kapasitas Besar."
-  },
-  {
-    id: 11,
-    name: "Kaos lengan pendek motif salib",
-    category: "rumah",
-    price: "Rp 89.400",
-    priceCny: "¥29.8",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
-  },
-  {
-    id: 12,
-    name: "Jaket Denim, Gaya Baru Musim Gugur",
-    category: "aksesoris",
-    price: "Rp 159.000",
-    priceCny: "¥53",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
-  },
-  {
-    id: 13,
-    name: "Kaos lengan pendek motif salib",
-    category: "aksesoris",
-    price: "Rp 89.400",
-    priceCny: "¥29.8",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
-  },
-  {
-    id: 14,
-    name: "Jaket Denim, Gaya Baru Musim Gugur",
-    category: "aksesoris",
-    price: "Rp 159.000",
-    priceCny: "¥53",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
-  },
-  {
-    id: 15,
-    name: "Kaos lengan pendek motif salib",
-    category: "elektronik",
-    price: "Rp 89.400",
-    priceCny: "¥29.8",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Kaos lengan pendek motif salib merek trendi Amerika, gaya musim semi/panas terbaru, potongan longgar, desain unik, atasan untuk pasangan."
-  },
-  {
-    id: 16,
-    name: "Jaket Denim, Gaya Baru Musim Gugur",
-    category: "fashion",
-    price: "Rp 159.000",
-    priceCny: "¥53",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
-    origin: "Pinduoduo Market Place",
-    description: "Jaket Denim, Gaya Baru Musim Gugur 2025, Jaket Kerja, Gaya Eropa, Jaket Pendek Wanita, Atasan INS, B165"
+    description: ""
   }
 ];
 
