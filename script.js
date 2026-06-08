@@ -2,13 +2,13 @@
 const products = [
   {
     id: 1,
-    name: "Kaos lengan panjang motif salib ",
-    category: "elektronik",
+    name: "",
+    category: "makanan",
     price: "Rp 119.400",
     priceCny: "¥39.8",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    image: "https://i.imgur.com/EbQEWSz.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Kaos lengan panjang motif salib Sansekerta bergaya retro-chic dari merek trendi Amerika untuk pria dan wanita dengan pola unik."
+    description: ""
   },
   {
     id: 2,
