@@ -12,13 +12,13 @@ const products = [
   },
   {
     id: 2,
-    name: "Tas Ransel Korean Version",
-    category: "rumah",
+    name: "",
+    category: "makanan",
     price: "Rp 67.800",
     priceCny: "¥22.6",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    image: "https://i.imgur.com/hZNIxiF.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Ransel Modis Terbaru 2026 untuk Wanita, Gaya Korea, Serbaguna untuk Siswa SMP dan SMA, untuk Perjalanan, Ransel Kapasitas Besar."
+    description: ""
   },
   {
     id: 3,
