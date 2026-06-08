@@ -66,37 +66,247 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    image: "https://i.imgur.com/2Bwspyj.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
   {
     id: 8,
     name: "",
-    category: "elektronik",
+    category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    image: "https://i.imgur.com/75gg0A7.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
   {
     id: 9,
     name: "",
-    category: "rumah",
+    category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    image: "https://i.imgur.com/Mar2YmF.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
   {
     id: 10,
     name: "",
-    category: "rumah",
+    category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/do9Q8JR.jpeg",
+    image: "https://i.imgur.com/jMhqP6B.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 11,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/wfjs0hF.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 12,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/HRsLZYg.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 13,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/2Bwspyj.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 14,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/75gg0A7.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 15,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/ZO8FlDY.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 16,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/5mHnXi8.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 17,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/jakAU14.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 18,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/JMlrOxV.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 19,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/HRsLZYg.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 20,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/uETUORG.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 21,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/c4yyYlA.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 22,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/tj8r2af.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 23,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/AAoMqJh.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 24,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/uETUORG.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 25,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/c4yyYlA.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 26,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/tj8r2af.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 27,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/AAoMqJh.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 28,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/uETUORG.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 29,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/c4yyYlA.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 30,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/tj8r2af.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 31,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/AAoMqJh.png",
     origin: "Pinduoduo Market Place",
     description: ""
   }
