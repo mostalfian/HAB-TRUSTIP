@@ -371,7 +371,7 @@ function orderSpecificProduct(productId) {
   const product = products.find(p => p.id === productId);
   if (!product) return;
   
-  const message = `Halo Admin Jastip China Indo!%0A%0ASaya ingin memesan produk:%0A*${encodeURIComponent(product.name)}*%0AHarga: ${encodeURIComponent(product.price)}%0AAsal: ${encodeURIComponent(product.origin)}%0A%0AMohon info estimasi dan cara pemesanan. Terima kasih.`;
+  const message = `Halo Admin HAB TRUSTIP!%0A%0ASaya ingin memesan produk:%0A*${encodeURIComponent(product.name)}*%0AHarga: ${encodeURIComponent(product.price)}%0AAsal: ${encodeURIComponent(product.origin)}%0A%0AMohon info estimasi dan cara pemesanan. Terima kasih.`;
   window.open(`https://wa.me/${ADMIN_PHONE}?text=${message}`, '_blank');
 }
 
@@ -414,7 +414,7 @@ function initForm() {
       return;
     }
     
-    let message = `Halo Admin Jastip China Indo!%0A%0A*Permintaan Jastip Baru*%0ANama: ${encodeURIComponent(nama)}%0ANo WA: ${encodeURIComponent(telp)}%0ALayanan dipilih: ${encodeURIComponent(layanan)}%0A`;
+    let message = `Halo Admin HAB TRUSTIP!%0A%0A*Permintaan Jastip Baru*%0ANama: ${encodeURIComponent(nama)}%0ANo WA: ${encodeURIComponent(telp)}%0ALayanan dipilih: ${encodeURIComponent(layanan)}%0A`;
     if (linkProduk) message += `Link Produk: ${encodeURIComponent(linkProduk)}%0A`;
     if (detail) message += `Detail: ${encodeURIComponent(detail)}%0A`;
     message += `%0A Mohon info total harga dan estimasi. Terima kasih.`;
