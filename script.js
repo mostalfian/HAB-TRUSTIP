@@ -3,33 +3,33 @@ const products = [
   // Bagian Makanan
   {
     id: 1,
-    name: "",
+    name: "HAKIM AL QODIR",
     category: "makanan",
-    price: "Rp 4500",
-    priceCny: "¥ ",
-    image: "https://i.imgur.com/EbQEWSz.jpeg",
+    price: "",
+    priceCny: " ",
+    image: "https://i.imgur.com/hC5ja16.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "OWNERRRR!"
   },
   {
     id: 2,
-    name: "",
+    name: "ALFIAN SLEBEW",
     category: "makanan",
-    price: "Rp 3600",
-    priceCny: "¥",
-    image: "https://i.imgur.com/hZNIxiF.jpeg",
+    price: "",
+    priceCny: "",
+    image: "https://i.imgur.com/F3fXSEu.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "OWNERRRR!"
   },
   {
     id: 3,
-    name: "",
+    name: "BRIAN LOS SANTOS",
     category: "makanan",
-    price: "Rp ",
-    priceCny: "¥",
-    image: "https://i.imgur.com/0bDYuIA.jpeg",
+    price: " ",
+    priceCny: "",
+    image: "https://i.imgur.com/ulBZw2k.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "OWNERRRR!"
   },
   {
     id: 4,
@@ -398,6 +398,36 @@ const products = [
     price: "Rp ",
     priceCny: "¥",
     image: "https://i.imgur.com/XRtVV9i.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 41,
+    name: "",
+    category: "makanan",
+    price: "Rp 4500",
+    priceCny: "¥ ",
+    image: "https://i.imgur.com/EbQEWSz.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 42,
+    name: "",
+    category: "makanan",
+    price: "Rp 3600",
+    priceCny: "¥",
+    image: "https://i.imgur.com/hZNIxiF.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 43,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/0bDYuIA.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
   },
