@@ -405,7 +405,7 @@ const products = [
 
   // Bagian Aksesoris
   {
-    id: 1,
+    id: 100,
     name: "1",
     category: "aksesoris",
     price: "Rp ",
@@ -415,7 +415,7 @@ const products = [
     description: ""
   },
   {
-    id: 2,
+    id: 102,
     name: "2",
     category: "aksesoris",
     price: "Rp ",
@@ -425,7 +425,7 @@ const products = [
     description: ""
   },
   {
-    id: 3,
+    id: 103,
     name: "3",
     category: "aksesoris",
     price: "Rp ",
@@ -435,7 +435,7 @@ const products = [
     description: ""
   },
   {
-    id: 4,
+    id: 104,
     name: "4",
     category: "aksesoris",
     price: "Rp ",
@@ -445,7 +445,7 @@ const products = [
     description: ""
   },
   {
-    id: 5,
+    id: 105,
     name: "5",
     category: "aksesoris",
     price: "Rp ",
@@ -455,7 +455,7 @@ const products = [
     description: ""
   },
   {
-    id: 6,
+    id: 106,
     name: "6",
     category: "aksesoris",
     price: "Rp ",
@@ -465,7 +465,7 @@ const products = [
     description: ""
   },
   {
-    id: 7,
+    id: 107,
     name: "7",
     category: "aksesoris",
     price: "Rp ",
@@ -475,7 +475,7 @@ const products = [
     description: ""
   },
   {
-    id: 8,
+    id: 108,
     name: "8",
     category: "aksesoris",
     price: "Rp ",
@@ -485,7 +485,7 @@ const products = [
     description: ""
   },
   {
-    id: 9,
+    id: 109,
     name: "9",
     category: "aksesoris",
     price: "Rp ",
@@ -495,7 +495,7 @@ const products = [
     description: ""
   },
   {
-    id: 10,
+    id: 110,
     name: "10",
     category: "aksesoris",
     price: "Rp ",
@@ -505,7 +505,7 @@ const products = [
     description: ""
   },
   {
-    id: 11,
+    id: 111,
     name: "冰箱贴金属",
     category: "aksesoris",
     price: "Rp 19200",
@@ -515,7 +515,7 @@ const products = [
     description: "企业定制冰箱贴金属磁吸贴定做文创ip纪念品年会周年小礼品订制"
   },
   {
-    id: 12,
+    id: 112,
     name: "12",
     category: "aksesoris",
     price: "Rp ",
@@ -525,7 +525,7 @@ const products = [
     description: ""
   },
   {
-    id: 13,
+    id: 113,
     name: "13",
     category: "aksesoris",
     price: "Rp ",
@@ -535,7 +535,7 @@ const products = [
     description: ""
   },
   {
-    id: 14,
+    id: 114,
     name: "14",
     category: "aksesoris",
     price: "Rp ",
@@ -545,7 +545,7 @@ const products = [
     description: ""
   },
   {
-    id: 15,
+    id: 115,
     name: "12",
     category: "aksesoris",
     price: "Rp ",
