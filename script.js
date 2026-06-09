@@ -1,5 +1,6 @@
 // DATA PRODUK (Bisa ditambah/diedit sesuai kebutuhan)
 const products = [
+  // Bagian Makanan
   {
     id: 1,
     name: "",
@@ -402,7 +403,7 @@ const products = [
   },
 
 
-  
+  // Bagian Aksesoris
   {
     id: 1,
     name: "1",
