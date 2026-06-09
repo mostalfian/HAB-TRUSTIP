@@ -296,7 +296,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/tj8r2af.png",
+    image: "https://i.imgur.com/XRtVV9i.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -307,6 +307,96 @@ const products = [
     price: "Rp ",
     priceCny: "¥",
     image: "https://i.imgur.com/0cTLnl7.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 32,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/7MZP9Xn.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 33,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/Imu0SnK.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 34,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/r3lKN0T.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 35,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/dR4TEhn.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 36,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/ycD9bOR.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 37,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/XWnO3vO.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 38,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/x7ABsq5.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 39,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/FC4a1ca.png",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 40,
+    name: "",
+    category: "makanan",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/XRtVV9i.png",
     origin: "Pinduoduo Market Place",
     description: ""
   }
