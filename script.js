@@ -503,6 +503,26 @@ const products = [
     image: "https://i.imgur.com/zvuPHcH.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
+  },
+  {
+    id: 11,
+    name: "11",
+    category: "aksesoris",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/O9aRVbs.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 12,
+    name: "12",
+    category: "aksesoris",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/zvuPHcH.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: ""
   }
 ];
 
