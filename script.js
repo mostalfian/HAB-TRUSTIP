@@ -126,7 +126,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/2Bwspyj.png",
+    image: "https://i.imgur.com/BfRGu11.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -136,7 +136,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/75gg0A7.png",
+    image: "https://i.imgur.com/VsAofkq.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -216,7 +216,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/tj8r2af.png",
+    image: "https://i.imgur.com/iGf2xWH.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -226,7 +226,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/AAoMqJh.png",
+    image: "https://i.imgur.com/opgUuOv.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -236,7 +236,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/uETUORG.png",
+    image: "https://i.imgur.com/vlWtybm.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -246,7 +246,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/c4yyYlA.png",
+    image: "https://i.imgur.com/Bfjtz3n.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -256,7 +256,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/tj8r2af.png",
+    image: "https://i.imgur.com/UsDaZpk.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -266,7 +266,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/AAoMqJh.png",
+    image: "https://i.imgur.com/ZExZ9BT.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -276,7 +276,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/uETUORG.png",
+    image: "https://i.imgur.com/l9Scx9G.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -286,7 +286,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/c4yyYlA.png",
+    image: "https://i.imgur.com/xuyVW9e.png",
     origin: "Pinduoduo Market Place",
     description: ""
   },
@@ -306,7 +306,7 @@ const products = [
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/AAoMqJh.png",
+    image: "https://i.imgur.com/0cTLnl7.png",
     origin: "Pinduoduo Market Place",
     description: ""
   }
