@@ -5,8 +5,8 @@ const products = [
     id: 1,
     name: "",
     category: "makanan",
-    price: "Rp ",
-    priceCny: "¥",
+    price: "Rp 4500",
+    priceCny: "¥ ",
     image: "https://i.imgur.com/EbQEWSz.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
@@ -15,7 +15,7 @@ const products = [
     id: 2,
     name: "",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 3600",
     priceCny: "¥",
     image: "https://i.imgur.com/hZNIxiF.jpeg",
     origin: "Pinduoduo Market Place",
@@ -506,13 +506,13 @@ const products = [
   },
   {
     id: 11,
-    name: "11",
+    name: "冰箱贴金属",
     category: "aksesoris",
-    price: "Rp ",
-    priceCny: "¥",
-    image: "https://i.imgur.com/O9aRVbs.jpeg",
+    price: "Rp 19200",
+    priceCny: "¥6.4",
+    image: "https://i.imgur.com/MiYbew5.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "企业定制冰箱贴金属磁吸贴定做文创ip纪念品年会周年小礼品订制"
   },
   {
     id: 12,
@@ -520,7 +520,37 @@ const products = [
     category: "aksesoris",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/zvuPHcH.jpeg",
+    image: "https://i.imgur.com/QlKd84N.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 13,
+    name: "13",
+    category: "aksesoris",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/etyE5k6.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 14,
+    name: "14",
+    category: "aksesoris",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/hJl8WIz.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: ""
+  },
+  {
+    id: 15,
+    name: "12",
+    category: "aksesoris",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "https://i.imgur.com/QlKd84N.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
   }
