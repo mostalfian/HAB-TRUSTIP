@@ -484,22 +484,22 @@ const products = [
     description: ""
   },
   {
-    id: 10,
-    name: "",
-    category: "makanan",
+    id: 9,
+    name: "9",
+    category: "aksesoris",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/jMhqP6B.png",
+    image: "https://i.imgur.com/O9aRVbs.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
   },
   {
-    id: 11,
-    name: "",
-    category: "makanan",
+    id: 10,
+    name: "10",
+    category: "aksesoris",
     price: "Rp ",
     priceCny: "¥",
-    image: "https://i.imgur.com/wfjs0hF.png",
+    image: "https://i.imgur.com/zvuPHcH.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
   }
