@@ -8,7 +8,7 @@ const products = [
     price: "",
     priceCny: " ",
     image: "https://i.imgur.com/hC5ja16.jpeg",
-    origin: "Pinduoduo Market Place",
+    origin: "OWNER HAB TRUSTIP",
     description: "OWNERRRR!"
   },
   {
@@ -18,7 +18,7 @@ const products = [
     price: "",
     priceCny: "",
     image: "https://i.imgur.com/F3fXSEu.jpeg",
-    origin: "Pinduoduo Market Place",
+    origin: "OWNER HAB TRUSTIP",
     description: "OWNERRRR!"
   },
   {
@@ -28,7 +28,7 @@ const products = [
     price: " ",
     priceCny: "",
     image: "https://i.imgur.com/ulBZw2k.jpeg",
-    origin: "Pinduoduo Market Place",
+    origin: "OWNER HAB TRUSTIP",
     description: "OWNERRRR!"
   },
   {
