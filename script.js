@@ -33,13 +33,13 @@ const products = [
   },
   {
     id: 4,
-    name: "",
+    name: "matcha isi cokeat",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 15.000",
     priceCny: "¥",
     image: "https://i.imgur.com/CCtdpvF.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 6 biji"
   },
   {
     id: 5,
@@ -53,39 +53,39 @@ const products = [
   },
   {
     id: 6,
-    name: "",
+    name: "jajan slai olai china",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 15.000",
     priceCny: "¥",
     image: "https://i.imgur.com/kvyI2zP.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 1 kotak"
   },
   {
     id: 7,
-    name: "",
+    name: "zheng taofu ",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 16.500",
     priceCny: "¥",
     image: "https://i.imgur.com/2Bwspyj.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 1 biji"
   },
   {
     id: 8,
-    name: "",
+    name: "波波爆 bobo",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 23.000",
     priceCny: "¥",
     image: "https://i.imgur.com/75gg0A7.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 2 "
   },
   {
     id: 9,
-    name: "",
+    name: "aficion chocolate",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 60.000",
     priceCny: "¥",
     image: "https://i.imgur.com/Mar2YmF.png",
     origin: "Pinduoduo Market Place",
@@ -93,7 +93,7 @@ const products = [
   },
   {
     id: 10,
-    name: "",
+    name: "1",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -103,9 +103,9 @@ const products = [
   },
   {
     id: 11,
-    name: "",
+    name: "黑松露火腿",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 15.000",
     priceCny: "¥",
     image: "https://i.imgur.com/wfjs0hF.png",
     origin: "Pinduoduo Market Place",
@@ -113,7 +113,7 @@ const products = [
   },
   {
     id: 12,
-    name: "",
+    name: "2",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -123,7 +123,7 @@ const products = [
   },
   {
     id: 13,
-    name: "",
+    name: "3",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -133,7 +133,7 @@ const products = [
   },
   {
     id: 14,
-    name: "",
+    name: "4",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -143,7 +143,7 @@ const products = [
   },
   {
     id: 15,
-    name: "",
+    name: "5",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -153,7 +153,7 @@ const products = [
   },
   {
     id: 16,
-    name: "",
+    name: "6",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -163,7 +163,7 @@ const products = [
   },
   {
     id: 17,
-    name: "",
+    name: "7",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -173,7 +173,7 @@ const products = [
   },
   {
     id: 18,
-    name: "",
+    name: "8",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -183,7 +183,7 @@ const products = [
   },
   {
     id: 19,
-    name: "",
+    name: "9",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -193,7 +193,7 @@ const products = [
   },
   {
     id: 20,
-    name: "",
+    name: "10",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -203,7 +203,7 @@ const products = [
   },
   {
     id: 21,
-    name: "",
+    name: "11",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -213,7 +213,7 @@ const products = [
   },
   {
     id: 22,
-    name: "",
+    name: "12",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -223,7 +223,7 @@ const products = [
   },
   {
     id: 23,
-    name: "",
+    name: "13",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -233,7 +233,7 @@ const products = [
   },
   {
     id: 24,
-    name: "",
+    name: "14",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -243,7 +243,7 @@ const products = [
   },
   {
     id: 25,
-    name: "",
+    name: "15",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -253,7 +253,7 @@ const products = [
   },
   {
     id: 26,
-    name: "",
+    name: "16",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -263,7 +263,7 @@ const products = [
   },
   {
     id: 27,
-    name: "",
+    name: "17",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -273,7 +273,7 @@ const products = [
   },
   {
     id: 28,
-    name: "",
+    name: "18",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -283,7 +283,7 @@ const products = [
   },
   {
     id: 29,
-    name: "",
+    name: "19",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -293,7 +293,7 @@ const products = [
   },
   {
     id: 30,
-    name: "",
+    name: "20",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -303,7 +303,7 @@ const products = [
   },
   {
     id: 31,
-    name: "",
+    name: "21",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -313,7 +313,7 @@ const products = [
   },
   {
     id: 32,
-    name: "",
+    name: "22",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -323,7 +323,7 @@ const products = [
   },
   {
     id: 33,
-    name: "",
+    name: "23",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -333,7 +333,7 @@ const products = [
   },
   {
     id: 34,
-    name: "",
+    name: "24",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -343,7 +343,7 @@ const products = [
   },
   {
     id: 35,
-    name: "",
+    name: "25",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -353,7 +353,7 @@ const products = [
   },
   {
     id: 36,
-    name: "",
+    name: "26",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -363,7 +363,7 @@ const products = [
   },
   {
     id: 37,
-    name: "",
+    name: "27",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -373,7 +373,7 @@ const products = [
   },
   {
     id: 38,
-    name: "",
+    name: "28",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -383,7 +383,7 @@ const products = [
   },
   {
     id: 39,
-    name: "",
+    name: "29",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -393,7 +393,7 @@ const products = [
   },
   {
     id: 40,
-    name: "",
+    name: "30",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -403,7 +403,7 @@ const products = [
   },
   {
     id: 41,
-    name: "",
+    name: "31",
     category: "makanan",
     price: "Rp 4500",
     priceCny: "¥ ",
@@ -413,7 +413,7 @@ const products = [
   },
   {
     id: 42,
-    name: "",
+    name: "32",
     category: "makanan",
     price: "Rp 3600",
     priceCny: "¥",
@@ -423,7 +423,7 @@ const products = [
   },
   {
     id: 43,
-    name: "",
+    name: "33",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
