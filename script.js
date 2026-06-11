@@ -109,77 +109,77 @@ const products = [
     priceCny: "¥",
     image: "https://i.imgur.com/wfjs0hF.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 2 kotak"
   },
   {
     id: 12,
-    name: "2",
+    name: "permen kuromi",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 15.000",
     priceCny: "¥",
     image: "https://i.imgur.com/HRsLZYg.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "3 kantong (sekitar 36 buah permen)"
   },
   {
     id: 13,
-    name: "3",
+    name: "qu xuan xiao koyo latiao",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 32.000",
     priceCny: "¥",
     image: "https://i.imgur.com/BfRGu11.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 15 bungkus "
   },
   {
     id: 14,
-    name: "4",
+    name: "latiao lebar ",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 18.000",
     priceCny: "¥",
     image: "https://i.imgur.com/VsAofkq.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 4 bungkus"
   },
   {
     id: 15,
-    name: "5",
+    name: "tims latte kelapa",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 60.000",
     priceCny: "¥",
     image: "https://i.imgur.com/ZO8FlDY.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 6 kotak minuman"
   },
   {
     id: 16,
-    name: "6",
+    name: "魔芋爽",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 21.000",
     priceCny: "¥",
     image: "https://i.imgur.com/5mHnXi8.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "1 kotak"
   },
   {
     id: 17,
-    name: "7",
+    name: "mochi pink",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 33.000",
     priceCny: "¥",
     image: "https://i.imgur.com/jakAU14.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "18 biji"
   },
   {
     id: 18,
-    name: "8",
+    name: "sereal dry fruits",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 42.000",
     priceCny: "¥",
     image: "https://i.imgur.com/JMlrOxV.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 1 wadah"
   },
   {
     id: 19,
@@ -193,29 +193,29 @@ const products = [
   },
   {
     id: 20,
-    name: "10",
+    name: "teh buah goji hitam, murbei, dan mawar",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 25.000",
     priceCny: "¥",
     image: "https://i.imgur.com/uETUORG.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 1 kotak"
   },
   {
     id: 21,
-    name: "11",
+    name: "popcorn rasa krim + rasa karamel",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 26.000",
     priceCny: "¥",
     image: "https://i.imgur.com/c4yyYlA.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 2 masing” rasa"
   },
   {
     id: 22,
-    name: "12",
+    name: "kulit ikan goreng segar 204g",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 50.000",
     priceCny: "¥",
     image: "https://i.imgur.com/iGf2xWH.png",
     origin: "Pinduoduo Market Place",
@@ -223,33 +223,33 @@ const products = [
   },
   {
     id: 23,
-    name: "13",
+    name: "latiao lima rasa dicampur menjadi satu",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 30.000",
     priceCny: "¥",
     image: "https://i.imgur.com/opgUuOv.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "22-27 bungkus"
   },
   {
     id: 24,
-    name: "14",
+    name: "vitamin C  spicy stik",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 65.000",
     priceCny: "¥",
     image: "https://i.imgur.com/vlWtybm.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "4 kemasan berisi potongan pedas, stik pedas, suwiran pedas , dan udang vegetarian"
   },
   {
     id: 25,
-    name: "15",
+    name: "kue bundar coklat",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 39.000",
     priceCny: "¥",
     image: "https://i.imgur.com/Bfjtz3n.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "dapat 3 kotak"
   },
   {
     id: 26,
