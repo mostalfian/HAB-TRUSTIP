@@ -43,73 +43,73 @@ const products = [
   },
   {
     id: 5,
-    name: "",
+    name: "Paket Jajanan Imlek Besar",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 101.000 – Rp146.000",
     priceCny: "¥",
     image: "https://i.imgur.com/5wfc4nO.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Satu kotak besar berisi lebih dari 200 bungkus camilan berbeda: permen, biskuit, kacang, jajanan pedas, minuman, dll. Lengkap sekali, cocok untuk hadiah, pesta, atau kebutuhan keluarga besar."
   },
   {
     id: 6,
-    name: "jajan slai olai china",
+    name: "Biskuit Selai Buah (Beli 1 Gratis 1)",
     category: "makanan",
-    price: "Rp 15.000",
+    price: "Rp 15.700 – Rp24.700",
     priceCny: "¥",
     image: "https://i.imgur.com/kvyI2zP.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "dapat 1 kotak"
+    description: "Biskuit renyah dengan isian selai buah asli di tengahnya. Rasanya manis asam segar, buahnya terasa nyata. Promosi beli 1 kotak dapat 1 kotak lagi."
   },
   {
     id: 7,
-    name: "zheng taofu ",
+    name: "Manisan Buah Persik",
     category: "makanan",
-    price: "Rp 16.500",
+    price: "Rp 7.800 – Rp12.300",
     priceCny: "¥",
     image: "https://i.imgur.com/2Bwspyj.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 1 biji"
+    description: "Buah persik segar yang diawetkan dengan gula, daging buah tebal, warnanya merah segar. Rasanya manis sedikit asam, kenyal, sangat enak dimakan langsung."
   },
   {
     id: 8,
-    name: "波波爆 bobo",
+    name: "Bobo Meledak (Bobo Pop)",
     category: "makanan",
-    price: "Rp 23.000",
+    price: "Rp 11.200 – Rp18.000",
     priceCny: "¥",
     image: "https://i.imgur.com/75gg0A7.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 2 "
+    description: "Bola coklat renyah dengan isian krim putih yang lembut dan manis. Tekstur unik, sangat populer di media sosial. Kemasan kotak kecil."
   },
   {
     id: 9,
-    name: "aficion chocolate",
+    name: "Coklat Aficion",
     category: "makanan",
-    price: "Rp 60.000",
+    price: "Rp 31.500 – Rp45.000",
     priceCny: "¥",
     image: "https://i.imgur.com/Mar2YmF.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Coklat susu berkualitas tinggi, bahan baku impor, rasa lembut, manis pas, meleleh di mulut. Tekstur halus, tidak kasar. Kemasan elegan, cocok untuk dikonsumsi sendiri atau hadiah."
   },
   {
     id: 10,
-    name: "1",
+    name: "Rumput Laut Pedas",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 4.500 – Rp7.800",
     priceCny: "¥",
     image: "https://i.imgur.com/jMhqP6B.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Rumput laut yang diiris halus, dibumbui cabai dan minyak wijen. Rasanya gurih, pedas, dan sedikit asin. Tekstur renyah, kaya serat dan mineral. Sangat populer sebagai lauk atau camilan."
   },
   {
     id: 11,
-    name: "黑松露火腿",
+    name: "Biskuit Ham Jamur Hitam",
     category: "makanan",
-    price: "Rp 15.000",
+    price: "Rp 6.700 – Rp11.200",
     priceCny: "¥",
     image: "https://i.imgur.com/wfjs0hF.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 2 kotak"
+    description: "Biskuit renyah gurih, rasa daging ham dan jamur hitam truffle yang khas. Aroma wangi, rasa asin gurih, tekstur renyah. Cocok untuk camilan atau sarapan."
   },
   {
     id: 12,
@@ -123,99 +123,99 @@ const products = [
   },
   {
     id: 13,
-    name: "qu xuan xiao koyo latiao",
+    name: "Latiao Campuran Kecil",
     category: "makanan",
-    price: "Rp 32.000",
+    price: "Rp 13.500 – Rp20.200",
     priceCny: "¥",
     image: "https://i.imgur.com/BfRGu11.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 15 bungkus "
+    description: "Berbagai bentuk latiao ukuran kecil: stik, persegi, cincin, dll. Rasanya pedas gurih, tekstur kenyal, dikemas terpisah agar segar. Paling populer dan terjangkau."
   },
   {
     id: 14,
-    name: "latiao lebar ",
+    name: "Latiao Lembar Lebar",
     category: "makanan",
-    price: "Rp 18.000",
+    price: "Rp 6.700 – Rp11.200",
     priceCny: "¥",
     image: "https://i.imgur.com/VsAofkq.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 4 bungkus"
+    description: "Lembaran besar latiao yang sangat kenyal, bumbu merata, rasa pedas dan gurih yang kuat. Tekstur lembut namun tetap kenyal, rasanya sangat otentik. Camilan legendaris."
   },
   {
     id: 15,
-    name: "tims latte kelapa",
+    name: "Minuman Kopi Kelapa Tims",
     category: "makanan",
-    price: "Rp 60.000",
+    price: "Rp 27.000 – Rp40.000",
     priceCny: "¥",
     image: "https://i.imgur.com/ZO8FlDY.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 6 kotak minuman"
+    description: "Minuman kopi siap minum, perpaduan kopi asli dengan susu kelapa. Rasanya lembut, wangi kelapa, tidak terlalu pahit atau manis. Kemasan kotak praktis, enak diminum dingin atau suhu ruang."
   },
   {
     id: 16,
-    name: "魔芋爽",
+    name: "Konjac Pedas (Mo Yu Shuang)",
     category: "makanan",
-    price: "Rp 21.000",
+    price: "Rp 9.000 – Rp15.700",
     priceCny: "¥",
     image: "https://i.imgur.com/5mHnXi8.png",
     origin: "Pinduoduo Market Place",
-    description: "1 kotak"
+    description: "Camilan dari umbi konjac, tekstur renyah dan berair, sangat rendah kalori. Dibumbui cabai, lada, dan garam, rasa pedas segar dan gurih. Sangat sehat, cocok untuk diet. Dikemas kecil-kecil."
   },
   {
     id: 17,
-    name: "mochi pink",
+    name: "Mochi Ungu Rasa Ubi",
     category: "makanan",
-    price: "Rp 33.000",
+    price: "Rp 15.700 – Rp24.700",
     priceCny: "¥",
     image: "https://i.imgur.com/jakAU14.png",
     origin: "Pinduoduo Market Place",
-    description: "18 biji"
+    description: "Kue ketan kenyal, lembut, berwarna ungu, berisi krim manis yang meleleh saat digigit. Kulit luarnya halus dan tidak lengket, isiannya banyak dan lembut. Rasa ubi ungu yang asli dan wangi. Dikemas satu per satu."
   },
   {
     id: 18,
-    name: "sereal dry fruits",
+    name: "Sereal Buah Kering & Susu",
     category: "makanan",
-    price: "Rp 42.000",
+    price: "Rp 31.500 – Rp45.000",
     priceCny: "¥",
     image: "https://i.imgur.com/JMlrOxV.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 1 wadah"
+    description: "Campuran serpihan gandum panggang, buah kering, biji-bijian, dan butiran susu. Bisa dimakan langsung atau diseduh dengan susu/panas. Kaya serat, sehat, mengenyangkan. Kemasan kantong besar 500g."
   },
   {
     id: 19,
-    name: "9",
+    name: "Permen Lunak Kuromi",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 6.700 – Rp11.200",
     priceCny: "¥",
     image: "https://i.imgur.com/HRsLZYg.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Permen lunak kenyal, rasa buah-buahan, kemasan bergambar karakter Kuromi yang populer. Rasanya manis segar, tekstur lembut, tidak lengket di gigi. Sangat disukai anak-anak dan penggemar karakter."
   },
   {
     id: 20,
-    name: "teh buah goji hitam, murbei, dan mawar",
+    name: "Teh Buah Goji, Murbei, Mawar",
     category: "makanan",
-    price: "Rp 25.000",
+    price: "Rp 11.200 – Rp18.000",
     priceCny: "¥",
     image: "https://i.imgur.com/uETUORG.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 1 kotak"
+    description: "Kantong teh berisi campuran buah goji hitam, murbei kering, dan kelopak bunga mawar. Seduh dengan air panas, rasanya manis alami, wangi bunga, kaya antioksidan dan vitamin. Baik untuk kesehatan kulit dan mata."
   },
   {
     id: 21,
-    name: "popcorn rasa krim + rasa karamel",
+    name: "Popcorn Rasa Mentega & Karamel",
     category: "makanan",
-    price: "Rp 26.000",
+    price: "Rp 15.700 – Rp24.700",
     priceCny: "¥",
     image: "https://i.imgur.com/c4yyYlA.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 2 masing” rasa"
+    description: "Popcorn berondong jagung yang mekar sempurna, besar dan empuk. Ada dua varian rasa: mentega yang gurih lembut, dan karamel yang manis lengket. Dikemas dalam kantong besar, cukup untuk berbagi. Diproses higienis, tidak gosong, rasanya sangat enak."
   },
   {
     id: 22,
-    name: "kulit ikan goreng segar 204g",
+    name: "Kulit Ikan Goreng Pedas Manis 204g",
     category: "makanan",
-    price: "Rp 50.000",
+    price: "Rp 27.000 – Rp40.000",
     priceCny: "¥",
     image: "https://i.imgur.com/iGf2xWH.png",
     origin: "Pinduoduo Market Place",
@@ -223,103 +223,103 @@ const products = [
   },
   {
     id: 23,
-    name: "latiao lima rasa dicampur menjadi satu",
+    name: "Latiao Campuran 5 Rasa",
     category: "makanan",
-    price: "Rp 30.000",
+    price: "Rp 11.200 – Rp18.000",
     priceCny: "¥",
     image: "https://i.imgur.com/opgUuOv.png",
     origin: "Pinduoduo Market Place",
-    description: "22-27 bungkus"
+    description: " Satu paket berisi 5 jenis latiao berbeda: lebar, tipis, kecil, pedas biasa, dan sangat pedas. Semua dari bahan berkualitas, rasa otentik, tekstur kenyal pas. Dikemas kecil-kecil, aman dan bersih."
   },
   {
     id: 24,
-    name: "vitamin C  spicy stik",
+    name: "Vitamin C Stik Pedas",
     category: "makanan",
-    price: "Rp 65.000",
+    price: "Rp 18.000 – Rp29.200",
     priceCny: "¥",
     image: "https://i.imgur.com/vlWtybm.png",
     origin: "Pinduoduo Market Place",
-    description: "4 kemasan berisi potongan pedas, stik pedas, suwiran pedas , dan udang vegetarian"
+    description: "Camilan stik panjang, renyah, rasa pedas segar dengan tambahan vitamin C. Warna cerah, bumbu merata, rasanya unik: pedas, asam, dan sedikit manis. Sangat disukai anak muda."
   },
   {
     id: 25,
-    name: "kue bundar coklat",
+    name: "Kue Bundar Coklat (C2 Coklat & Keju)",
     category: "makanan",
-    price: "Rp 39.000",
+    price: "Rp 20.000 – Rp34.000",
     priceCny: "¥",
     image: "https://i.imgur.com/Bfjtz3n.png",
     origin: "Pinduoduo Market Place",
-    description: "dapat 3 kotak"
+    description: "Kue lembut berbentuk bundar dengan isian krim coklat dan keju kental di tengahnya. Tekstur kue sangat empuk, lembut di mulut, rasa manis yang pas dengan aroma coklat asli dan gurihnya keju. Dikemas per kotak, isinya beberapa keping, cocok untuk camilan pagi, sore, atau bekal. Bebas lemak trans, dipanggang dengan suhu terkontrol agar tetap segar."
   },
   {
     id: 26,
-    name: "16",
+    name: " Lidi Rasa Blueberry (Mengyuan)",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 5.600 – Rp9.000",
     priceCny: "¥",
     image: "https://i.imgur.com/UsDaZpk.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Camilan stik panjang renyah, dilapisi coklat rasa blueberry yang manis dan sedikit asam segar. Bagian dalamnya renyah dan ringan, lapisan luarnya halus dan beraroma kuat. Kemasan kotak kecil praktis, berat bersih 16g. Sangat populer sebagai camilan ringan anak-anak maupun dewasa."
   },
   {
     id: 27,
-    name: "17",
+    name: "Paket Campuran Jajanan Klasik",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 40.000 – Rp63.000",
     priceCny: "¥",
     image: "https://i.imgur.com/ZExZ9BT.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Satu paket berisi berbagai macam camilan legendaris Tiongkok: mi kering, kerupuk, permen, jajanan pedas, keripik, dll. Semua dikemas kecil-kecil, rasanya beragam: pedas, manis, asin, gurih. Sangat cocok untuk dibagikan, oleh-oleh, atau camilan santai. Isi lengkap, kualitas terjamin, rasa otentik seperti jajanan zaman dulu."
   },
   {
     id: 28,
-    name: "18",
+    name: "Campuran Kismis Berwarna",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 27.000 – Rp40.000",
     priceCny: "¥",
     image: "https://i.imgur.com/l9Scx9G.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Kismis berkualitas tinggi dari berbagai jenis anggur: hijau, merah, hitam, kuning. Dikeringkan secara alami, besar-besar, daging tebal, manis alami tanpa tambahan gula. Kemasan toples kedap udara agar tetap kering dan segar. Bisa dimakan langsung, dicampur sereal, kue, atau minuman. Kaya zat besi dan vitamin."
   },
   {
     id: 29,
-    name: "19",
+    name: "Kue Kering 7 Rasa",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 18.000 – Rp31.500",
     priceCny: "¥",
     image: "https://i.imgur.com/xuyVW9e.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Paket berisi kue kering dengan 7 rasa berbeda: coklat, kacang, buah, susu, dll. Bentuk lucu, rasa manis pas, renyah. Dikemas satu per satu agar tetap renyah. Cocok untuk camilan, tamu, atau bekal anak sekolah."
   },
   {
     id: 30,
-    name: "20",
+    name: "Kacang Campuran Harian (Beli 1 Gratis 1)",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 56.000 – Rp85.000",
     priceCny: "¥",
     image: "https://i.imgur.com/XRtVV9i.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Campuran kacang mete, almond, kenari, kismis, kacang tanah, dan buah kering lainnya. Perbandingan seimbang, dipanggang kering tanpa minyak, sehat dan bergizi. Satu kotak isi 30 bungkus kecil, cukup untuk 1 bulan. Promosi beli 1 kotak dapat 1 kotak tambahan."
   },
   {
     id: 31,
-    name: "21",
+    name: "Stroberi Kering Beku",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 22.500 – Rp36.000",
     priceCny: "¥",
     image: "https://i.imgur.com/0cTLnl7.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Stroberi segar yang dikeringkan dengan teknologi beku, sehingga bentuk, warna, dan rasa asli tetap terjaga. Tekstur renyah, rasa manis asam segar, tanpa tambahan gula atau pengawet. Kaya serat dan vitamin C. Cocok dimakan langsung, dicampur sereal, atau hiasan kue."
   },
   {
     id: 32,
-    name: "22",
+    name: "Black Forest Coklat Wafer",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 11.200 – Rp18.000",
     priceCny: "¥",
     image: "https://i.imgur.com/7MZP9Xn.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Wafer berlapis coklat hitam dengan isian krim lembut. Tekstur renyah berlapis-lapis, rasa coklat pekat dan harum. Dikemas dalam kantong rapi, cocok untuk camilan sehari-hari."
   },
   {
     id: 33,
@@ -343,23 +343,23 @@ const products = [
   },
   {
     id: 35,
-    name: "25",
+    name: "Latiao Boshi Sapi (Pedas)",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 6.700 – Rp11.200",
     priceCny: "¥",
     image: "https://i.imgur.com/dR4TEhn.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Camilan tradisional dari tepung gandum yang diproses, dibumbui cabai, lada, garam, dan rempah khas. Tekstur kenyal, rasa pedas gurih yang nikmat, tidak terlalu keras. Dikemas dalam bungkus kecil terpisah agar higienis dan mudah dibawa. Rasanya otentik, sangat populer di seluruh Tiongkok."
   },
   {
     id: 36,
-    name: "26",
+    name: "Bobo Meledak Coklat",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 13.500 – Rp22.500",
     priceCny: "¥",
     image: "https://i.imgur.com/ycD9bOR.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Bola-bola coklat renyah di luar, berisi krim lembut yang meleleh saat digigit. Rasa coklat hitam yang pekat, tidak terlalu manis. Kemasan kotak, sangat populer di media sosial. Tekstur unik, rasanya lezat, cocok untuk camilan atau hadiah."
   },
   {
     id: 37,
@@ -403,27 +403,27 @@ const products = [
   },
   {
     id: 41,
-    name: "31",
+    name: " Keripik Beras Lada Sichuan",
     category: "makanan",
-    price: "Rp 4500",
+    price: "Rp 4.500 – Rp7.800",
     priceCny: "¥ ",
     image: "https://i.imgur.com/EbQEWSz.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Keripik beras tradisional, renyah, rasa khas lada Sichuan: pedas dan sedikit kebas di lidah. Bumbu merata, gurih, sangat renyah."
   },
   {
     id: 42,
-    name: "32",
+    name: "Keripik Beras Merek Haoxiongdi",
     category: "makanan",
-    price: "Rp 3600",
+    price: "Rp 3.600 – Rp6.300",
     priceCny: "¥",
     image: "https://i.imgur.com/hZNIxiF.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Versi merek terkenal dari keripik beras lada Sichuan. Kualitas lebih baik, lebih renyah, bumbu lebih nikmat. Kemasan lebih menarik."
   },
   {
     id: 43,
-    name: "33",
+    name: "Kue Kering Quduoduo",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
@@ -436,13 +436,13 @@ const products = [
   // Bagian Aksesoris
   {
     id: 100,
-    name: "1",
+    name: "Casing HP Motif Kartun",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 13.500 – Rp22.500",
     priceCny: "¥",
     image: "https://i.imgur.com/FvkFhaa.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Pelindung HP bahan silikon lembut, gambar kartun lucu, tulisan estetik. Melindungi seluruh bodi dan lensa kamera. Cocok untuk seri iPhone terbaru."
   },
   {
     id: 102,
