@@ -569,7 +569,7 @@ const products = [
     id: 114,
     name: "Kotak Hadiah Alat Tulis Gaya Cina",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 49.500 – Rp78.700",
     priceCny: "¥",
     image: "https://i.imgur.com/hJl8WIz.jpeg",
     origin: "Pinduoduo Market Place",
