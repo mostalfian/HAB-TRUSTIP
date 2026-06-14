@@ -486,7 +486,7 @@ const products = [
   },
   {
     id: 106,
-    name: "Casing HP Hitam ""Menjadi Wanita Kaya"",
+    name: "Casing HP Hitam (Menjadi Wanita Kaya)",
     category: "aksesoris",
     price: "Rp 15.700 – Rp27.000",
     priceCny: "¥",
@@ -516,7 +516,7 @@ const products = [
   },
   {
     id: 109,
-    name: "Casing HP Ungu ""Mencari Uang Itu Penting"",
+    name: "Casing HP Ungu (Mencari Uang Itu Penting)",
     category: "aksesoris",
     price: "Rp 12.300 – Rp21.300",
     priceCny: "¥",
@@ -542,8 +542,7 @@ const products = [
     priceCny: "¥6.4",
     image: "https://i.imgur.com/MiYbew5.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "Bahan logam tipis, gambar bangunan bersejarah, pemandangan kota, dan tulisan nama tempat. Warna cerah, detail tajam. Bagian belakang magnet kuat. Bisa pesan desain sendiri, minimal 100 buah.
-"
+    description: "Bahan logam tipis, gambar bangunan bersejarah, pemandangan kota, dan tulisan nama tempat. Warna cerah, detail tajam. Bagian belakang magnet kuat. Bisa pesan desain sendiri, minimal 100 buah."
   },
   {
     id: 112,
