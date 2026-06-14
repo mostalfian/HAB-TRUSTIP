@@ -33,13 +33,13 @@ const products = [
   },
   {
     id: 4,
-    name: "matcha isi cokeat",
+    name: "Mochi Matcha Isi Coklat Lumer",
     category: "makanan",
-    price: "Rp 15.000",
+    price: "Rp 9.000 – Rp15.700",
     priceCny: "¥",
     image: "https://i.imgur.com/CCtdpvF.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "dapat 6 biji"
+    description: "Kulit kenyal lembut berwarna hijau, isian coklat pekat yang meleleh saat digigit. Manis pas, aroma teh hijau asli. Kemasan satu per satu. Sangat laris dan lezat."
   },
   {
     id: 5,
@@ -323,23 +323,23 @@ const products = [
   },
   {
     id: 33,
-    name: "23",
+    name: "Paket Campuran Jajanan 100 Macam",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
     image: "https://i.imgur.com/Imu0SnK.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Isi lengkap segala jenis jajanan legendaris: pedas, manis, asin, kerupuk, permen, mi kering. Semua kemasan kecil. Sangat lengkap dan murah."
   },
   {
     id: 34,
-    name: "24",
+    name: "Kismis Campuran 500g",
     category: "makanan",
     price: "Rp ",
     priceCny: "¥",
     image: "https://i.imgur.com/r3lKN0T.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Besar-besar, daging tebal, manis alami. Kering bersih, tanpa biji. Kemasan toples kedap udara. Sehat dan bergizi."
   },
   {
     id: 35,
@@ -369,37 +369,37 @@ const products = [
     priceCny: "¥",
     image: "https://i.imgur.com/XWnO3vO.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "9.000 – Rp15.700"
   },
   {
     id: 38,
-    name: "28",
+    name: "Latiao Pedas Campuran",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 7.200 – Rp12.300",
     priceCny: "¥",
     image: "https://i.imgur.com/x7ABsq5.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Berbagai jenis: batang, lembar, kecil, sangat pedas & sedang. Semua rasa otentik. Dikemas rapi."
   },
   {
     id: 39,
-    name: "29",
+    name: "Gulungan Rumput Laut",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 9.000 – Rp14.600",
     priceCny: "¥",
     image: "https://i.imgur.com/FC4a1ca.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Rumput laut kering dipanggang, rasa asin gurih. Tekstur renyah sekali. Kemasan kotak, isi banyak. Sehat dan ringan."
   },
   {
     id: 40,
-    name: "30",
+    name: "Kacang Campuran Harian (Beli 1 Gratis 1)",
     category: "makanan",
-    price: "Rp ",
+    price: "Rp 54.000 – Rp81.000",
     priceCny: "¥",
     image: "https://i.imgur.com/XRtVV9i.png",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Almond, mete, kenari, kismis, aprikot. Panggang kering, tidak berminyak. Kotak keluarga, beli 1 dapat 1."
   },
   {
     id: 41,
@@ -433,10 +433,10 @@ const products = [
   },
 
 
-  // Bagian Aksesoris
+  // Bagian Aksesoris.
   {
     id: 100,
-    name: "Casing HP Motif Kartun",
+    name: "Casing HP Motif Gadis Kecil & Tulisan Beruntung",
     category: "aksesoris",
     price: "Rp 13.500 – Rp22.500",
     priceCny: "¥",
@@ -446,133 +446,134 @@ const products = [
   },
   {
     id: 102,
-    name: "2",
+    name: "Casing HP Hijau Motif Anak & Uang",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 13.500 – Rp22.500",
     priceCny: "¥",
     image: "https://i.imgur.com/CsiKMUC.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Bahan polikarbonat keras + lapisan lembut, anti gores. Gambar anak lucu, tulisan motivasi ringan. Dilengkapi gantungan tali pendek dan hiasan daun semanggi. Desain ramping, mudah dipasang dan dilepas."
   },
   {
     id: 103,
-    name: "3",
+    name: "Casing HP Ungu Kaligrafi Cina",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 15.700 – Rp24.700",
     priceCny: "¥",
     image: "https://i.imgur.com/4OOBhca.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Warna ungu lembut, tulisan kaligrafi emas. Dilengkapi tali gantungan motif geometri dan gantungan kunci kecil. Bahan tebal, melindungi sudut HP. Desain budaya Tiongkok modern."
   },
   {
     id: 104,
-    name: "4",
+    name: "Casing HP Merah Putih Tulisan Politik",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 18.000 – Rp29.200",
     priceCny: "¥",
     image: "https://i.imgur.com/Q2hadeO.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Desain tegas, warna merah dan putih dengan tulisan berkarakter. Bahan kaca keras, permukaan halus dan berkilau. Sangat pas, lubang kamera presisi. Tahan air dan debu."
   },
   {
     id: 105,
-    name: "5",
+    name: " Casing HP Biru Dewa Kekayaan",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 14.600 – Rp23.600",
     priceCny: "¥",
     image: "https://i.imgur.com/YjrazEa.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Gambar Dewa Kekayaan Tiongkok klasik, warna biru muda cerah. Bahan transparan di pinggir, keras di belakang. Tekstur halus, tidak meninggalkan bekas sidik jari. Simbol keberuntungan dan kemakmuran."
   },
   {
     id: 106,
-    name: "6",
+    name: "Casing HP Hitam ""Menjadi Wanita Kaya"",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 15.700 – Rp27.000",
     priceCny: "¥",
     image: "https://i.imgur.com/c8cJp5T.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Bahan kaca temper asli, permukaan seperti kaca cermin. Gambar gadis rambut panjang, tulisan harapan kekayaan. Sangat kuat, anti pecah, pas bodi."
   },
   {
     id: 107,
-    name: "7",
+    name: "Casing HP Ungu Motif Kipas & Bunga",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 13.500 – Rp22.500",
     priceCny: "¥",
     image: "https://i.imgur.com/pXlX5zS.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Motif kipas, awan, dan bunga gaya kuno. Dilengkapi tali gantungan panjang dan gantungan kunci. Bahan lembut, elastis, menyerap benturan."
   },
   {
     id: 108,
-    name: "8",
+    name: "Casing HP Transparan + Rantai Mutiara",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp Rp16.800 – Rp28.100",
     priceCny: "¥",
     image: "https://i.imgur.com/Xl7RWkU.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Bahan bening, tidak mengubah warna asli HP. Tulisan harapan hidup lebih baik. Dilengkapi rantai hiasan mutiara buatan panjang 16 cm. Sangat cantik dan elegan."
   },
   {
     id: 109,
-    name: "9",
+    name: "Casing HP Ungu ""Mencari Uang Itu Penting"",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 12.300 – Rp21.300",
     priceCny: "¥",
     image: "https://i.imgur.com/O9aRVbs.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Warna ungu muda, gambar kelinci lucu, tulisan ringan tentang pentingnya rezeki. Bahan tebal, anti jatuh, pinggiran tinggi melindungi layar."
   },
   {
     id: 110,
-    name: "10",
+    name: "Casing HP Hijau Buah Persik & Kata Bijak",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 13.500 – Rp22.500",
     priceCny: "¥",
     image: "https://i.imgur.com/zvuPHcH.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Gambar buah persik, bunga, dan tulisan keberuntungan. Bahan lembut, tali gantungan pendek. Desain simpel dan bermakna baik."
   },
   {
     id: 111,
-    name: "冰箱贴金属",
+    name: " Magnet Kulkas Logam Gambar Kota",
     category: "aksesoris",
     price: "Rp 19200",
     priceCny: "¥6.4",
     image: "https://i.imgur.com/MiYbew5.jpeg",
     origin: "Pinduoduo Market Place",
-    description: "企业定制冰箱贴金属磁吸贴定做文创ip纪念品年会周年小礼品订制"
+    description: "Bahan logam tipis, gambar bangunan bersejarah, pemandangan kota, dan tulisan nama tempat. Warna cerah, detail tajam. Bagian belakang magnet kuat. Bisa pesan desain sendiri, minimal 100 buah.
+"
   },
   {
     id: 112,
-    name: "12",
+    name: "Magnet Kulkas Logam Pasir Mengalir",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 19.100 – Rp31.500",
     priceCny: "¥",
     image: "https://i.imgur.com/QlKd84N.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Unik, ada cairan dan pasir berwarna di dalam yang bergerak saat digerakkan. Bercahaya dalam gelap. Motif taman, pagoda, bunga. Sangat indah dan populer."
   },
   {
     id: 113,
-    name: "13",
+    name: "Gantungan Kunci Logam Kustom",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 10.100 – Rp20.200",
     priceCny: "¥",
     image: "https://i.imgur.com/etyE5k6.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Bahan logam paduan, warna emas/perak, gambar tempat wisata atau desain sendiri. Teknologi ukir halus, awet dan tidak luntur. Cocok oleh-oleh, hadiah, promosi. Pabrik langsung, pesan banyak lebih murah."
   },
   {
     id: 114,
-    name: "14",
+    name: "Kotak Hadiah Alat Tulis Gaya Cina",
     category: "aksesoris",
     price: "Rp ",
     priceCny: "¥",
     image: "https://i.imgur.com/hJl8WIz.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Buku sampul kulit sintetis warna biru tua, ukiran emas kaligrafi. Pulpen logam serasi. Dilengkapi tas kertas cantik. Bisa ukir nama/logo perusahaan. Kualitas tinggi, cocok hadiah resmi."
   },
   {
     id: 115,
