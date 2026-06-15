@@ -583,6 +583,66 @@ const products = [
     image: "https://i.imgur.com/QlKd84N.jpeg",
     origin: "Pinduoduo Market Place",
     description: ""
+  },
+  {
+    id: 116,
+    name: "Set Hadiah Kotak Premium: Gelas Kopi + Penyangga Leher + Payung Lipat",
+    category: "aksesoris",
+    price: "Rp 110.000 – Rp 178.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/zJ8zoxI.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "1 buah gelas kopi tahan panas/dingin dengan layar suhu digital di tutupnya, 1 alat penyangga leher ergonomis berwarna senada, dan 1 payung lipat ringan berdesain serasi."
+  },
+  {
+    id: 117,
+    name: " Botol Minum Olahraga Gradasi Warna 1 Liter",
+    category: "aksesoris",
+    price: "Rp 27.000 – Rp 43.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/AcgUOJk.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "1000 ml, cukup untuk kebutuhan cairan sehari-hari saat olahraga, kerja, atau bepergian."
+  },
+  {
+    id: 118,
+    name: "Gelas Kopi Karakter Crayon Shinchan – LULUJUMP",
+    category: "aksesoris",
+    price: "Rp 40.000 – Rp 58.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/gnr9RQI.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Gambar karakter kartun populer Crayon Shinchan dengan berbagai ekspresi dan adegan lucu. Ada dua varian warna: kuning lembut dan biru muda. Dilengkapi tali jinjing kecil agar mudah dibawa. Tutup rapat, anti tumpah."
+  },
+  {
+    id: 119,
+    name: "Gelas Termos Kustom Pribadi / Perusahaan",
+    category: "aksesoris",
+    price: "Rp  34.000 – Rp 52.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/w16J0Jw.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Gelas termos gaya modern dengan penutup tekan, mudah dibuka satu tangan."
+  },
+  {
+    id: 120,
+    name: "Gelas Besar Bergagang Motif Karakter 2026",
+    category: "aksesoris",
+    price: "Rp 54.000 – Rp 79.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/Cufkoer.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Bagian dalam baja tahan karat, luar plastik keras berwarna putih, gagang kokoh."
+  },
+  {
+    id: 121,
+    name: "Gelas Besar Bergagang – Applied Nutrition",
+    category: "aksesoris",
+    price: "Rp 72.000 – Rp 101.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/yzv1nJO.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Baja tahan karat berkualitas tinggi, dinding ganda, sangat awet, tidak berkarat."
   }
 ];
 
