@@ -686,13 +686,13 @@ const products = [
   },
   {
     id: 126,
-    name: "",
+    name: "Gelas Besar Tahan Panas/Dingin Karakter Stitch Disney – 900ml",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 65.000 – Rp 94.500",
     priceCny: "¥",
-    image: "",
+    image: "https://i.imgur.com/FQLmbXt.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Motif karakter Stitch (Lilo & Stitch) lengkap dengan gambar tokoh dan tulisan “STITCH”, ada hiasan patung kecil Stitch di bagian tutup. Dilengkapi gagang lebar yang nyaman digenggam, tutup rapat anti tumpah, dan lubang untuk sedotan. Cetakan gambar tajam, tidak mudah luntur."
   }
 ];
 
