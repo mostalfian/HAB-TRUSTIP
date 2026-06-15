@@ -576,13 +576,13 @@ const products = [
   },
   {
     id: 115,
-    name: "12",
+    name: "Gelas Kopi Dinding Ganda – Heytea / Luckin Coffee – Bahan 316",
     category: "aksesoris",
-    price: "Rp ",
+    price: "Rp 42.750 – Rp 63.000",
     priceCny: "¥",
-    image: "https://i.imgur.com/QlKd84N.jpeg",
+    image: "https://i.imgur.com/TCKZZGd.jpeg",
     origin: "Pinduoduo Market Place",
-    description: ""
+    description: "Lapisan dalam baja tahan karat tipe 316 (lebih tahan karat & aman dari 304), dinding ganda vakum, menjaga suhu panas hingga 12 jam, dingin hingga 24 jam."
   },
   {
     id: 116,
@@ -643,6 +643,56 @@ const products = [
     image: "https://i.imgur.com/yzv1nJO.jpeg",
     origin: "Pinduoduo Market Place",
     description: "Baja tahan karat berkualitas tinggi, dinding ganda, sangat awet, tidak berkarat."
+  },
+  {
+    id: 122,
+    name: "Termos Suhu Digital – Motif Rusa Besar / Logo Huawei",
+    category: "aksesoris",
+    price: "Rp 49.500 – Rp 72.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/Q6Mig9P.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Baja tahan karat 304/316, kedap udara, sangat awet. Bagian bawah anti selip."
+  },
+  {
+    id: 123,
+    name: "Gelas Tekan – Motif Wahaha / Disney",
+    category: "aksesoris",
+    price: "Rp 38.250 – Rp 56.250",
+    priceCny: "¥",
+    image: "https://i.imgur.com/Fz6P6Zj.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Buka tutup satu tekan, sangat praktis. Cetakan sangat tajam dan cerah – contoh gambar: karakter Mickey Mouse, logo Wahaha, tulisan khusus. Warna tersedia: putih bersih, merah cerah, kombinasi emas."
+  },
+  {
+    id: 124,
+    name: "Gelas Wisuda / Kelas – Tema Masa Muda",
+    category: "aksesoris",
+    price: "Rp 56.250 – Rp 81.000",
+    priceCny: "¥",
+    image: "https://i.imgur.com/GZQtL6W.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Tema Masa Muda Tidak Akan Kembali, gambar pemandangan sekolah, karakter kartun anak muda, tulisan ucapan wisuda dan kenangan. Bisa ubah nama kelas, tahun, atau tulisan sendiri. Ada tali gantungan agar mudah dibawa."
+  },
+  {
+    id: 125,
+    name: "Gelas Kopi CHAGEE – Baja 316 – 3 Cara Pakai",
+    category: "aksesoris",
+    price: "Rp 51.750 – Rp 74.250",
+    priceCny: "¥",
+    image: "https://i.imgur.com/okseZWW.jpeg",
+    origin: "Pinduoduo Market Place",
+    description: "Baja tahan karat tipe 316 di bagian dalam, sangat aman untuk susu, kopi, dan minuman asam; anti karat seumur pakai."
+  },
+  {
+    id: 126,
+    name: "",
+    category: "aksesoris",
+    price: "Rp ",
+    priceCny: "¥",
+    image: "",
+    origin: "Pinduoduo Market Place",
+    description: ""
   }
 ];
 
