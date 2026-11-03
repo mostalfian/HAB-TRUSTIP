@@ -5,7 +5,7 @@ const products = [
     id: 1,
     name: "ALFIAN HAFID",
     category: "makanan",
-    price: "",
+    price: "OWNER HAB TRUSTIP",
     priceCny: "",
     image: "https://i.imgur.com/F3fXSEu.jpeg",
     origin: "OWNER HAB TRUSTIP",
