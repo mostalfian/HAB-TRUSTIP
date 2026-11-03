@@ -3,31 +3,11 @@ const products = [
   // Bagian Makanan
   {
     id: 1,
-    name: "HAKIM AL QODIR",
-    category: "makanan",
-    price: "",
-    priceCny: " ",
-    image: "https://i.imgur.com/hC5ja16.jpeg",
-    origin: "OWNER HAB TRUSTIP",
-    description: "OWNERRRR!"
-  },
-  {
-    id: 2,
     name: "ALFIAN SLEBEW",
     category: "makanan",
     price: "",
     priceCny: "",
     image: "https://i.imgur.com/F3fXSEu.jpeg",
-    origin: "OWNER HAB TRUSTIP",
-    description: "OWNERRRR!"
-  },
-  {
-    id: 3,
-    name: "BRIAN LOS SANTOS",
-    category: "makanan",
-    price: " ",
-    priceCny: "",
-    image: "https://i.imgur.com/ulBZw2k.jpeg",
     origin: "OWNER HAB TRUSTIP",
     description: "OWNERRRR!"
   },
