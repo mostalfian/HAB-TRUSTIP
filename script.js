@@ -3,7 +3,7 @@ const products = [
   // Bagian Makanan
   {
     id: 1,
-    name: "ALFIAN SLEBEW",
+    name: "ALFIAN HAFID",
     category: "makanan",
     price: "",
     priceCny: "",
@@ -679,7 +679,7 @@ const products = [
 let currentProduct = null;
 
 // Nomor WhatsApp Admin (GANTI DENGAN NOMOR ASLI ANDA)
-const ADMIN_PHONE = '62881026039700';
+const ADMIN_PHONE = '62895385275533';
 
 // Render produk ke grid
 function renderProducts(category = "all") {
